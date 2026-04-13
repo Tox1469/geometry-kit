@@ -1,0 +1,19 @@
+{
+  "name": "geometry-kit",
+  "version": "1.0.0",
+  "description": "Ponto-em-polígono, interseção de linhas, bbox",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["geometry", "polygon", "intersection", "bbox"],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
