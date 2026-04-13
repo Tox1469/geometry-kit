@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/geometry-kit/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/geometry-kit/actions)
+[![License](https://img.shields.io/github/license/Tox1469/geometry-kit?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/geometry-kit?style=flat-square)](https://github.com/Tox1469/geometry-kit/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/geometry-kit?style=flat-square)](https://github.com/Tox1469/geometry-kit/stargazers)
+
+---
+
 # geometry-kit
 
 Ponto-em-polígono, interseção de linhas, bbox
